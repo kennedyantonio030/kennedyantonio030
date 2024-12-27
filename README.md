@@ -1,9 +1,8 @@
-# Muhammad Rehan Aslam
+# Kennedy Antonio
 
-## 🌐 Linux Cloud DevOps Admin | MLOps Engineer
+## 🌐 Senior Machine Learning | Full Stack Engineer
 
-Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Cloud DevOps Admin and MLOps Engineer with over 8 years of experience in cloud infrastructure, container orchestration, and deployment pipelines. I specialize in building scalable solutions and supporting machine learning operations to ensure efficient and reliable deployments.
-
+Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning ՄMLՅ engineer with 8 years of experience in the research, development, and application of various ML, AI, and generative AI solutions. I have turned big data into valuable actions and have a demonstrated history of driving business efficiencies and cost reductions. I am proficient in generative AI, prompt engineering, computer vision, natural language processing ՄNLPՅ, anomaly detection, and prediction tasks.
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranareehanaslam&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
@@ -11,26 +10,19 @@ Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Clou
 
 ### 🛠️ Professional Expertise
 
+- **API Development:** Experience in developing and maintaining APIs for seamless integration of services.
+- **Machine Learning:** Experience in Artificial Intelligence(LLM, Generative AI, Computer Vision, Data Analytics).
+- **Full Stack development:** Frontend and Backend development(JS/TS, Python).
 - **Cloud Infrastructure Management:** Expertise in AWS, Azure, and Google Cloud platforms.
 - **Container Orchestration:** Proficient in Docker and Kubernetes for managing and scaling containerized applications.
 - **CI/CD Pipelines:** Skilled in creating and optimizing CI/CD pipelines to streamline deployments and enhance development workflows.
-- **API Development:** Experience in developing and maintaining APIs for seamless integration of services.
-- **System Monitoring & Maintenance:** Proficient in monitoring systems and ensuring optimal performance through proactive maintenance.
+
 
 ### 💼 Experience
 
-#### 🏢 **Techloyce** - Linux Cloud DevOps Admin
-*July 2024 - Present*  
-*Islāmābād, Pakistan (On-site)*
-
-- Engineered and maintained cloud infrastructure across AWS, Azure, and Google Cloud, optimizing performance and security.
-- Configured and supported Linux and Windows servers, ensuring high availability and reliability.
-- Implemented and managed CI/CD pipelines, improving deployment efficiency and reducing time-to-market.
-- Collaborated with teams to resolve complex technical issues and deliver scalable solutions.
-
-#### 🏢 **Metex Labz** - MLOps Engineer
-*May 2023 - July 2024*  
-*Islāmābād, Pakistan (On-site)*
+#### 🏢 **StreamEdge Analytics** - Machine Learning Full Stack Engineer
+*2023 - 2024*  
+*Maryland, US (Remote)*
 
 - Supported the deployment and management of machine learning models, ensuring their smooth integration into production environments.
 - Created robust deployment pipelines and maintained CI/CD practices to facilitate rapid iteration and continuous improvement.
@@ -39,25 +31,24 @@ Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Clou
 - Leveraged Kubernetes for orchestrating and scaling containerized applications, enhancing operational efficiency.
 - Monitored and maintained deployed models and infrastructure, addressing performance issues promptly.
 
-#### 🏢 **Terminus Technologies Limited** - DevOps Engineer
-*December 2019 - May 2023*  
-*Pakistan (On-site)*
+#### 🏢 **Senti AI** - AI Engineer
+*2019 - 2023*  
+*Manila, Philippines (On-site)*
 
-- Designed and managed scalable AWS infrastructure, increasing reliability by 40% and improving deployment efficiency by 20%.
-- Developed and maintained CI/CD pipelines, reducing deployment times by 50% and enhancing deployment frequency.
-- Optimized cloud services and server configurations, achieving a 30% cost reduction.
-- Integrated third-party APIs, resulting in a 25% boost in system functionality.
-- Led efforts to automate routine tasks, increasing operational efficiency by 60%.
+- Developed an NLP-powered engine to classify the root causes of millions of machine text log messages, significantly improving tool utilization and saving over 1,500 labor hours annually at Intel fabs. Built a robust Python text data processing pipeline to ingest data from an Elasticsearch API, enhancing data accessibility and analysis speed by 40%.
+- Constructed a computer vision anomaly detection solution at Intel to enhance tool availability and address maintenance quality issues. Leveraging object detection and deep learning, I achieved a 30% reduction in downtime and improved response times by 25%, while enhancing image quality and processing efficiency
+- Spearheaded the development of a Machine Learning Operations ՄMLOps) framework at Intel, enabling rapid and scalable AI/ML deployments. This initiative achieved a 50% increase in deployment speed and a 35% enhancement in model performance monitoring across global products and factories.
 
-#### 🏢 **Einnovention Software Solutions** - Website Server Manager / DevOps Engineer
-*May 2016 - December 2019*  
-*Pakistan (Hybrid)*
 
-- Developed and deployed web applications using PHP, JavaScript, and MySQL.
-- Managed web servers with Linux and Apache, improving site reliability by 25%.
-- Implemented security protocols and best practices, safeguarding sensitive data.
-- Developed custom WordPress themes and plugins, increasing client satisfaction by 30%.
-- Utilized agile methodologies to streamline development processes and enhance team collaboration.
+#### 🏢 **Senti AI** - Machine Learning Software Engineer
+2017 - 2019*  
+*Manila, Philippines (On-site)*
+
+- Engineered machine learning and analytics software for the simulation and enhanced operation of advanced renewable energy storage systems, resulting in a 15% increase in energy efficiency and a 20% reduction in operational costs.
+- Shaped and deployed energy market trading optimization algorithms and applications, improving trading performance by 25% and increasing revenue generation capabilities.
+- Created monitoring reports utilizing in-memory caching, enabling real-time data updates every second, which enhanced user experience and decision-making speed by 30%.
+- Optimized customer resource allocation, achieving a 20% reduction in turnaround time for service requests, leading to advanced customer satisfaction scores.
+- Conducted root cause analysis for over 10 critical issues, identifying bugs and implementing fixes in production within 24 hours, which minimized downtime and boosted system reliability by 40%.
 
 ### 🏆 Achievements & Certifications
 
@@ -66,10 +57,8 @@ Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Clou
 
 ### 🎓 Education
 
-- **Pir Mehr Ali Shah Arid Agriculture University - PMAS AAUR**  
-  Bachelor's degree in Computer Science (March 2019 - April 2023)
-- **Template Monster**  
-  Certified WordPress Developer (November 2018)
+- **Mindana State University**  
+  Bachelor's degree in Computer Science (March 2012 - April 2016)
 
 ### 🛠️ Skills
 
@@ -77,17 +66,13 @@ Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Clou
 - **Containerization:** Docker, Kubernetes
 - **CI/CD Tools:** GitLab CI, GitHub Actions, Jenkins
 - **API Development:** REST, GraphQL
-- **Monitoring Tools:** Prometheus, Grafana, Filebeat
-- **Programming Languages:** Python, PHP, JavaScript
-- **Web Technologies:** WordPress, MySQL,cPanel/WHM
+- **Programming Languages:** Python, C++, JS/TS
+- **Machine Learning:** TensorFlow, Keras, PyTorch, Generative AI, Reinforce learing, Matlab
+- **Data Analytices:** PySpark, Power BI, Matplotlib, DataBrick, ElasticSearch, Warehouse
+- **Web Technologies:** React, Next.js, Python Django/Flask, Node.js, MongoDB, Redis, PostgreSQL, SQL, Dynamo DB
 
 ### 🌐 Connect with Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
-[<img align="left" alt="TikTok" width="22px" src="https://cdn-icons-png.flaticon.com/512/3669/3669950.png" />][tiktok]
 
 <br />
 
@@ -101,12 +86,7 @@ Welcome to my GitHub profile! I’m Muhammad Rehan Aslam, a dedicated Linux Clou
 </p>
 
 <!-- Actual links to your social media accounts -->
-[instagram]: https://instagram.com/ranareehanaslam
-[linkedin]: https://linkedin.com/in/ranareehanaslam
-[facebook]: https://facebook.com/ranareehanaslam
-[twitter]: https://twitter.com/ranareehanaslam
-[youtube]: https://www.youtube.com/@ranareehanaslam
-[tiktok]: https://tiktok.com/@ranareehanaslam
+[linkedin]: https://www.linkedin.com/in/kennedy-antonio-654a7933b/
 
 
 <!---
