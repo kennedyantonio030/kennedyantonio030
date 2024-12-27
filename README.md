@@ -24,12 +24,12 @@ Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning
 *2023 - 2024*  
 *Maryland, US (Remote)*
 
-- Supported the deployment and management of machine learning models, ensuring their smooth integration into production environments.
-- Created robust deployment pipelines and maintained CI/CD practices to facilitate rapid iteration and continuous improvement.
-- Developed efficient APIs and microservices for real-time predictions and seamless integration.
-- Managed virtual machines, local servers, and Docker containers, optimizing them for performance and reliability.
-- Leveraged Kubernetes for orchestrating and scaling containerized applications, enhancing operational efficiency.
-- Monitored and maintained deployed models and infrastructure, addressing performance issues promptly.
+- Led the development and operationalization of voice and video analysis product offerings, managing the full stack of advanced analytics and machine learning ՄMLՅ pipelines.
+- Architected, built, and deployed the Comcast Machine Learning Infrastructure, enabling inference for Xfinity Home Security cameras. Utilized TensorFlow object detection models on AWS EKS/Kubernetes, achieving a 30% reduction in inference time. Implemented Prometheus and Grafana for enhanced observability, resulting in a 25% increase in system uptime.
+- Designed and executed observability and monitoring capabilities for the Comcast Xfinity Voice Assistant Platform, which serves millions of customers. Leveraged machine learning and cloud technologies to process over 1 billion natural language queries, improving query response accuracy by 15%
+- Conducted R&D on machine learning models for anomaly detection in Comcast Xfinity Home Security systems, utilizing various home sensor events (e.g., motion, door, window, Wi-Fi connections). This work led to a 20% improvement in anomaly detection rates.
+- As a Machine Learning R&D Engineer at Comcast, I developed models to detect anomalous network events, enhancing operational efficiency by 30% within the Network Product and Services Division.
+- Formulated predictive models to improve child support collection activities and monitor children's health and safety in foster care. Oversaw the project as the Lead Machine Learning Engineer, achieving a 40% increase in successful collections and a 25% improvement in safety monitoring outcomes.
 
 #### 🏢 **Senti AI** - AI Engineer
 *2019 - 2023*  
