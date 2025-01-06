@@ -3,9 +3,6 @@
 ## 🌐 Senior Machine Learning | Full Stack Engineer
 
 Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning ՄMLՅ engineer with 8 years of experience in the research, development, and application of various ML, AI, and generative AI solutions. I have turned big data into valuable actions and have a demonstrated history of driving business efficiencies and cost reductions. I am proficient in generative AI, prompt engineering, computer vision, natural language processing ՄNLPՅ, anomaly detection, and prediction tasks.
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranareehanaslam&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 ### 🛠️ Professional Expertise
