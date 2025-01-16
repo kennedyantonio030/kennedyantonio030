@@ -38,7 +38,7 @@ Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning
 
 
 #### 🏢 **Senti AI** - Machine Learning Software Engineer
-2017 - 2019*  
+2017 - 2019  
 *Manila, Philippines (On-site)*
 
 - Engineered machine learning and analytics software for the simulation and enhanced operation of advanced renewable energy storage systems, resulting in a 15% increase in energy efficiency and a 20% reduction in operational costs.
