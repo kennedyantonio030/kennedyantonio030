@@ -54,7 +54,7 @@ Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning
 
 ### 🎓 Education
 
-- **Mindana State University**  
+- **Mindanao State University**  
   Bachelor's degree in Computer Science (March 2012 - April 2016)
 
 ### 🛠️ Skills
