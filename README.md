@@ -83,7 +83,7 @@ Welcome to my GitHub profile! This is Kennedy Antonio, a Senior machine learning
 </p>
 
 <!-- Actual links to your social media accounts -->
-[linkedin]: https://www.linkedin.com/in/kennedy-antonio-654a7933b/
+[linkedin]: https://www.linkedin.com/in/kennedy-antonio/
 
 
 <!---
